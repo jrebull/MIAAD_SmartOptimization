@@ -1,107 +1,102 @@
-<div align="center">
+# <center> <font color="#003CA6">Maestría en Inteligencia Artificial y Analítica de Datos (MIAAD)</font> </center>
 
-# Optimización Inteligente
+<center>
 
-**Maestría en Inteligencia Artificial y Analítica de Datos (MIAAD)**
+[![Institución](https://img.shields.io/badge/INSTITUCIÓN-UACJ-003CA6?style=for-the-badge)](https://www.uacj.mx)
+[![Programa](https://img.shields.io/badge/PROGRAMA-MIAAD-555559?style=for-the-badge)](https://www.uacj.mx)
+[![Materia](https://img.shields.io/badge/MATERIA-OPTIMIZACIÓN_INTELIGENTE-FFD600?style=for-the-badge&labelColor=003CA6)](https://www.uacj.mx)
 
-Universidad Autónoma de Ciudad Juárez · Instituto de Ingeniería y Tecnología
+</center>
 
-Departamento de Ingeniería Eléctrica y Computación
+<center>
 
-</div>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![DEAP](https://img.shields.io/badge/DEAP-003CA6?style=flat-square&logo=python&logoColor=white)](https://deap.readthedocs.io/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.overleaf.com/)
+[![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+
+</center>
 
 ---
 
-|  |  |
+## **<font color="#003CA6">Optimización Inteligente</font>**
+
+**Instituto de Ingeniería y Tecnología** · Departamento de Ingeniería Eléctrica y Computación
+
+> Diseño, análisis e implementación de algoritmos metaheurísticos y técnicas avanzadas de optimización aplicadas a problemas del mundo real.
+
+---
+
+### **<font color="#555559">Cuerpo Docente</font>**
+* **Mtro. Raúl Gibrán Porras Alaniz** · Profesor Titular
+
+---
+
+## **<center> <font color="#003CA6">Estudiante</font> </center>**
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td align="center" style="border:none; padding:20px;">
+      <img src="https://iili.io/KuvsGKx.png" width="150px" style="border-radius:10px;">
+      <br>
+      <h4>Javier Augusto Rebull Saucedo</h4>
+      <small>MIAAD Student · UACJ</small><br>
+      <i>"Trabajando a Tope"</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### **<font color="#003CA6">Información del Curso</font>**
+
+| | |
 |---|---|
-| **Estudiante** | Javier Rebull |
-| **Profesor** | Mtro. Raúl Gibrán Porras Alaniz |
 | **Programa** | Maestría en Inteligencia Artificial y Analítica de Datos |
 | **Créditos** | 8 |
+| **Eje de Formación** | Metodológico · Electivo |
 | **Modalidad** | Semipresencial |
+| **Prerrequisito** | Programación para Analítica Prescriptiva y de la Decisión |
 
 ---
 
-## Descripción
+### **<font color="#003CA6">Contenido Temático</font>**
 
-Este repositorio contiene las tareas, proyectos y notebooks desarrollados para la materia de **Optimización Inteligente** del programa MIAAD en la UACJ. El curso aborda el diseño, análisis e implementación de algoritmos metaheurísticos y técnicas avanzadas de optimización aplicadas a problemas del mundo real.
-
-El objetivo central es desarrollar habilidades para modelar problemas de toma de decisiones y resolverlos mediante métodos de optimización inteligente, distinguiendo entre enfoques clásicos y computacionales modernos.
-
----
-
-## Contenido del Curso
-
-### Tema 1 · Introducción a la Optimización Inteligente
-Conceptos básicos de optimización y sus desafíos. Diferencias entre optimización clásica y optimización inteligente.
-
-### Tema 2 · Algoritmos Genéticos
-Operadores genéticos: selección, cruza y mutación. Diseño y ajuste de parámetros en algoritmos genéticos.
-
-### Tema 3 · Algoritmos de Enjambre
-Optimización por enjambre de partículas (PSO). Colonias de hormigas y optimización por colonia de abejas.
-
-### Tema 4 · Algoritmos Evolutivos
-Estrategias evolutivas y programación evolutiva. Métodos de adaptación y diversificación en algoritmos evolutivos.
-
-### Tema 5 · Búsqueda Tabú y Recocido Simulado
-Estrategias de exploración en búsqueda tabú. Métodos basados en el proceso de recocido para optimización.
-
-### Tema 6 · Optimización Multiobjetivo Inteligente
-Algoritmos genéticos y otros enfoques para optimización multiobjetivo. Métodos de selección de soluciones no dominadas.
-
-### Tema 7 · Optimización Híbrida
-Combinación de algoritmos de optimización inteligente con métodos clásicos. Diseño de algoritmos híbridos para mejorar el rendimiento.
+| Sem. | Tema | Descripción |
+|:---:|---|---|
+| 1 | Introducción a la Optimización Inteligente | Conceptos básicos, diferencias entre optimización clásica e inteligente |
+| 2-3 | Algoritmos Genéticos | Operadores genéticos: selección, cruza y mutación. Ajuste de parámetros |
+| 4-6 | Algoritmos de Enjambre | PSO, colonias de hormigas y optimización por colonia de abejas |
+| 7-8 | Algoritmos Evolutivos | Estrategias evolutivas, métodos de adaptación y diversificación |
+| 9-10 | Búsqueda Tabú y Recocido Simulado | Estrategias de exploración y métodos basados en recocido |
+| 11-12 | Optimización Multiobjetivo | Enfoques multiobjetivo, selección de soluciones no dominadas |
+| 13-16 | Optimización Híbrida | Combinación de métodos inteligentes con clásicos, diseño de algoritmos híbridos |
 
 ---
 
-## Estructura del Repositorio
+### **<font color="#555559">Tecnologías y Herramientas</font>**
 
-```
-optimizacion-inteligente/
-├── tema-01-introduccion/
-├── tema-02-algoritmos-geneticos/
-├── tema-03-algoritmos-enjambre/
-├── tema-04-algoritmos-evolutivos/
-├── tema-05-busqueda-tabu-recocido-simulado/
-├── tema-06-optimizacion-multiobjetivo/
-├── tema-07-optimizacion-hibrida/
-├── proyecto-final/
-└── README.md
-```
-
----
-
-## Tecnologías y Herramientas
-
-| Categoría | Herramientas |
+| Categoría | Stack |
 |---|---|
 | **Lenguajes** | Python, C, C++, Java |
 | **Notebooks** | Google Colab, Jupyter Notebooks |
-| **Librerías de optimización** | DEAP, PyGMO, Pyomo, COIN-OR |
-| **Software especializado** | IBM CPLEX Optimization Studio, OptaPlanner, MOEA Framework |
+| **Optimización** | DEAP, PyGMO, Pyomo, COIN-OR, IBM CPLEX, OptaPlanner, MOEA Framework |
 | **Documentación** | LaTeX (Overleaf) |
 
 ---
 
-## Bibliografía Principal
-
-- Kochenderfer, M. J., Wheeler, T. A. (2019). *Algorithms for Optimization*. MIT Press.
-- Talbi, E. G. (2009). *Metaheuristics: From Design to Implementation*. John Wiley & Sons.
-- Boyd, S. P., & Vandenberghe, L. (2004). *Convex Optimization*. Cambridge University Press.
-- Eberhart, R. C., Shi, Y., & Kennedy, J. (2001). *Swarm Intelligence*. Elsevier.
-- Winter, G., Périaux, J., Galán, M., & Cuesta, P. (1996). *Genetic Algorithms in Engineering and Computer Science*. John Wiley & Sons.
+### **<font color="#555559">Bibliografía Principal</font>**
+* Kochenderfer, M. J., Wheeler, T. A. (2019). *Algorithms for Optimization*. MIT Press.
+* Talbi, E. G. (2009). *Metaheuristics: From Design to Implementation*. John Wiley & Sons.
+* Boyd, S. P., & Vandenberghe, L. (2004). *Convex Optimization*. Cambridge University Press.
+* Eberhart, R. C., Shi, Y., & Kennedy, J. (2001). *Swarm Intelligence*. Elsevier.
 
 ---
 
-## Prerrequisitos
+<center>
 
-La materia tiene como antecedente **Programación para Analítica Prescriptiva y de la Decisión**, y requiere conocimientos en cálculo, álgebra lineal, programación, teoría de grafos y programación lineal y no lineal.
+<font color="#555559">Universidad Autónoma de Ciudad Juárez · Instituto de Ingeniería y Tecnología · MIAAD 2025</font>
 
----
-
-<div align="center">
-
-**UACJ** · Instituto de Ingeniería y Tecnología · MIAAD 2025
-
-</div>
+</center>
